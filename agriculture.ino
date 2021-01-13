@@ -31,7 +31,7 @@ int MoistureHigh = 800;
 int MoistureGood = 710;
 int MoistureLow = 630;//threshold that should launch water spray of the plant
 long duration;//duration used to check depth
-const int depth = 100;//depth of water tank
+const int depth = 100;//assuming depth of water tank
 float cm,level;//variable to store value of water level
 int valSoil ;  //variable to store value measured by moisture sensor
 const int pingPin = A4;//  pin on which ultrasonic sensor is connected 
