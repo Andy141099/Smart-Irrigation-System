@@ -55,3 +55,4 @@ COMPONENTS USED:
 2 5vpower supply 
 
 Jumper wires 
+![smart-irrigation-system-image](https://user-images.githubusercontent.com/71865320/115517551-deba0000-a2a4-11eb-9c0d-d16b52bb5dac.jpeg)
